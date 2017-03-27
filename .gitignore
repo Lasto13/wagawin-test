@@ -1,0 +1,9 @@
+node_modules
+bower_components
+dist
+.tmp
+test
+.gulp
+.DS_Store
+.gulp
+tinypng
