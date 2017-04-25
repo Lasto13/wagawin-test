@@ -27,7 +27,7 @@ var pieceHeight = puzzleHeight / 3;
 function init(){
 
     setTimeout( () => {
-        alert('time is UP');
+        //alert('time is UP');
     }, 24000)
 
     setTimeout( () => {
