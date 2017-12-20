@@ -58,7 +58,7 @@ function loadCanvas(image){
     ctx.drawImage(imageObj, 0, 0, imageObj.width, imageObj.height);
     clipPuzzles();
     };
-    imageObj.src = 'https://s3-eu-west-1.amazonaws.com/wagawin-ad-platform/media/testmode/banner-landscape.jpg';
+    imageObj.src = 'http://lasto.promiseo.com/1.jpg';
 }
 
 function clipPuzzles(){
